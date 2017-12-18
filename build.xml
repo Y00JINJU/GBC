@@ -1,0 +1,11 @@
+<project name = "gbc" basedir = ".">
+<target name = "greet">
+</target>
+<javac srcdir = "./gbc/ASD/greet/" destdir = "./" includes = "Hello.java">
+</javac>
+<javac srcdir = "./gbc/ASD/bye/" destdir = "./" includes = "Bye.java">
+</javac>
+<target name = "bye">
+</target>
+</project>
+

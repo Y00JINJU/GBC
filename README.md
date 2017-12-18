@@ -1,1 +1,5 @@
 # GBC
+dkssuddkssud
+dksduskdf
+:wq
+
